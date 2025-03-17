@@ -8,7 +8,7 @@ This project includes the following criteria:
 3. Load the SQL magic module and further use Pandas to load Chicago datasets to dataframes via URL links and pd.readcsv() command
 4. Load data onto database useing .tosql() commands and establish connection between SQL magic module and database via %sql sqlite:/// command
 
-These skills can be used to analyze a plethora of variables including but not limited to:
+These skills can be used to analyze a plethora of variables including, but not limited to:
 
 - School types and their average safety scores
 - Community areas with the highest percentage of households below the poverty line
